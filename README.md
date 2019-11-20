@@ -1,6 +1,6 @@
 # database_final
 
-## Refernce
+## References
 
 > Angular & Node.js - The Mean Stack Guide
 >
